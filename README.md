@@ -1,13 +1,13 @@
 # quantum_algorithms
 Quantum algorithms that work on the IBM quantum systems.
 
-1)Grover's algorithm
+1)Grover's algorithm:
 Algorithm that generates the quantum circuit for Grover's algorithm for given qubit number and number to be found and executes it.
 
-2)Shor's algorithm
+2)Shor's algorithm:
 Creates Shor's algorithm for analysis of number 14 using given prime number.
 
-3)Sudoku 4x4
+3)Sudoku 4x4:
 Generates quantum circuit that finds solution of given sudoku.
 
 HOW TO RUN
